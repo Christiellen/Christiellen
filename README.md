@@ -10,6 +10,19 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 * Pipelines that are easy to maintain: incremental processing, orchestration as code, automated tests and CI;
 * AI used responsibly: the model proposes, code validates and a person decides.
 
+### Public work
+
+Power BI dashboards I worked on for the Brazilian Ministry of Justice and Public Security (MJSP), published on the ministry's public pages. Team work; my role is described in each line.
+
+| Dashboard | My role |
+|---|---|
+| [National ID Card (CIN)](https://app.powerbi.com/view?r=eyJrIjoiMTI4NWY2NzctMWNhZC00MjVlLWFmYjEtOWM2NDFkNmM1MjFiIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Built from scratch: data model, DAX measures and report. Issuance KPIs, monthly and cumulative trends, and issuance per capita by state. |
+| [Strategic Monitoring 2024-2027](https://app.powerbi.com/view?r=eyJrIjoiNzgyM2Q1Y2UtOGY4NS00MTA4LTk1YTctMWYxYWNiYmU1MDllIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Built the first version, including the data model and the data refresh pipeline: the ministry's strategic map with views of indicators, projects, SDGs and history. Later maintained by other teams. |
+| [Consumidor.gov.br](https://app.powerbi.com/view?r=eyJrIjoiOGE1NTkzYjUtYzMyZS00NzNiLWE5MTItNzgwMzg2YTM1MWZjIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Maintenance: fixes and data updates for the public consumer complaints dashboard. |
+
+I have also built or maintained internal dashboards (not public) for IT strategic planning, product recalls, metadata management, Power BI licensing and HR records, among others.
+
+
 ### Featured projects
 
 | Project | What it shows |
