@@ -13,7 +13,7 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 
 | Project | What it shows |
 |---|---|
-| [Public Safety Intelligence Lakehouse](https://github.com/Christiellen/Public-Safety-Intelligence-Lakehouse) | Incremental Databricks lakehouse (Medallion, star schema, Unity Catalog) on Brazilian public safety data, Neo4j graph with spatial statistics, multi-agent GenAI assistant (LangGraph + Gemini), GenAI-assisted entity resolution, n8n weekly briefing, 127 tests on GitHub Actions |
+| [Public Safety Intelligence Lakehouse](https://github.com/Christiellen/Public-Safety-Intelligence-Lakehouse) | Incremental Databricks lakehouse on Brazilian public safety data (Medallion, star schema, Unity Catalog), Figma-designed Apache Superset BI dashboard, Neo4j graph with spatial statistics, multi-agent GenAI assistant (LangGraph + Gemini) with guardrails, GenAI entity resolution and n8n weekly briefing. Asset Bundles, pytest + GitHub Actions. |
 | [Diálogos Nacionais Lakehouse](https://github.com/Christiellen/dialogos_nacionais_lakehouse) | Data lakehouse with Databricks, PySpark, Delta Lake and Power BI over large public datasets such as the 2022 Census |
 | [Disaster Risk Spatial Architecture](https://github.com/Christiellen/disaster-risk-spatial-architecture) | Geospatial data architecture on PostgreSQL + PostGIS for Brazilian disaster records (Civil Defense and IBGE): legacy-modernization baseline, conceptual/logical/physical models, in-database integrity, changelog and optimistic concurrency, traceable loads with quarantine, measured index benchmark (15x to 32x) and a versioned GeoJSON integration contract, tested in CI |
 
