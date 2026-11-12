@@ -5,9 +5,9 @@ Data architect based in Brasília, Brazil. I build data platforms that people ca
 I have 12+ years in IT and 5+ in data, most of them in the public sector, working on data governance, data quality and analytics for the Brazilian Ministry of Justice and Public Security.
 
 **What I care about**
-- **Numbers you can trust**: reconciling with the source, quality gates, audited matching and data dictionaries
-- **Pipelines that are easy to maintain**: incremental processing, orchestration as code, automated tests and CI
-- **AI used responsibly**: the model proposes, code validates and a person decides
+- **Numbers you can trust**: reconciling with the source, quality gates, audited matching and data dictionaries;
+- **Pipelines that are easy to maintain**: incremental processing, orchestration as code, automated tests and CI;
+- **AI used responsibly**: the model proposes, code validates and a person decides.
 
 ### Featured projects
 
@@ -34,12 +34,15 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
+### Education
+- Bachelor's degree in Computer Science (IESB).
+- Postgraduate degree in Data Science and Big Data (PUC Minas).
+
 ### Certifications
 
-- Neo4j Graph Data Science and Neo4j & Generative AI (Neo4j GraphAcademy)
-- Azure Databricks Platform Architect and Generative AI Fundamentals (Databricks Academy accreditations)
-- Professional Scrum Master II (Scrum.org)
-- Postgraduate degree in Data Science and Big Data (PUC Minas)
+- Neo4j Graph Data Science and Neo4j & Generative AI (Neo4j GraphAcademy);
+- Azure Databricks Platform Architect and Generative AI Fundamentals (Databricks Academy accreditations);
+- Professional Scrum Master II (Scrum.org);
 
 ### Contact
 
