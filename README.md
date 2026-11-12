@@ -33,6 +33,8 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ### Education
 - Bachelor's degree in Computer Science (IESB);
