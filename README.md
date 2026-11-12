@@ -1,13 +1,14 @@
 ### Hi, I'm Christiellen 👋
 
-Data architect based in Brasília, Brazil. I build data platforms that people can trust: lakehouses on Databricks, geospatial databases on PostGIS, analytics and dashboards in Power BI, graphs in Neo4j and, more recently, GenAI agents that answer questions about the data with guardrails in code.
+Data architect based in Brasília, Brazil. I build data platforms that people can trust: lakehouses on Databricks, ETL pipelines in Pentaho Data Integration (PDI), geospatial databases on PostGIS, analytics and dashboards in Power BI and Apache Superset, graphs in Neo4j and, more recently, GenAI agents that answer questions about the data with guardrails in code.
 
 I have 12+ years in IT and 5+ in data, most of them in the public sector, working on data governance, data quality and analytics for the Brazilian Ministry of Justice and Public Security.
 
-**What I care about**
-- **Numbers you can trust**: reconciling with the source, quality gates, audited matching and data dictionaries;
-- **Pipelines that are easy to maintain**: incremental processing, orchestration as code, automated tests and CI;
-- **AI used responsibly**: the model proposes, code validates and a person decides.
+### What I care about
+
+* Numbers you can trust: reconciling with the source, quality gates, audited matching and data dictionaries;
+* Pipelines that are easy to maintain: incremental processing, orchestration as code, automated tests and CI;
+* AI used responsibly: the model proposes, code validates and a person decides.
 
 ### Featured projects
 
@@ -20,11 +21,14 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 ### Tech stack
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Pentaho PDI](https://img.shields.io/badge/Pentaho%20PDI-005C9C?style=flat&logo=hitachi&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD4?style=flat&logo=delta&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -33,8 +37,7 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Apache Superset](https://img.shields.io/badge/Apache%20Superset-20A6C9?style=flat&logo=apachesuperset&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
 
 ### Education
 - Bachelor's degree in Computer Science (IESB);
