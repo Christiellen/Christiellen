@@ -40,7 +40,7 @@ I have 12+ years in IT and 5+ in data, most of them in the public sector, workin
 - Bachelor's degree in Computer Science (IESB);
 - Postgraduate degree in Data Science and Big Data (PUC Minas).
 
-### Certifications
+### Certifications and Accreditations
 
 - Neo4j Graph Data Science and Neo4j & Generative AI (Neo4j GraphAcademy);
 - Azure Databricks Platform Architect and Generative AI Fundamentals (Databricks Academy accreditations);
