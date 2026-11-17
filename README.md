@@ -16,7 +16,6 @@ Power BI dashboards I worked on for the Brazilian Ministry of Justice and Public
 
 | Dashboard | My role |
 |---|---|
-| [National ID Card (CIN)](https://app.powerbi.com/view?r=eyJrIjoiMTI4NWY2NzctMWNhZC00MjVlLWFmYjEtOWM2NDFkNmM1MjFiIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Built from scratch: data model, DAX measures and report. Issuance KPIs, monthly and cumulative trends, and issuance per capita by state. |
 | [Strategic Monitoring 2024-2027](https://app.powerbi.com/view?r=eyJrIjoiNzgyM2Q1Y2UtOGY4NS00MTA4LTk1YTctMWYxYWNiYmU1MDllIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Built the first version, including the data model and the data refresh pipeline: the ministry's strategic map with views of indicators, projects, SDGs and history. Later maintained by other teams. |
 | [Consumidor.gov.br](https://app.powerbi.com/view?r=eyJrIjoiOGE1NTkzYjUtYzMyZS00NzNiLWE5MTItNzgwMzg2YTM1MWZjIiwidCI6ImViMDkwNDIwLTQ0NGMtNDNmNy05MWYyLTRiOGRhNmJmZThlMSJ9) | Maintenance: fixes and data updates for the public consumer complaints dashboard. |
 
